@@ -1,0 +1,14 @@
+@use "root";
+@use "calendar";
+@use "inputs";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: #4D4F5C;
+  font-weight: 300;
+}
